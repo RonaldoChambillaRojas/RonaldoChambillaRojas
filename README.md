@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-:computer: **Estudiante de Ing Software**
-:pencil: **Estudiante-Senati**
-:eyeglasses: **Geek empedernido**(¿Aún se usa geek?)
-:encoming_automobile: **Fan de los autos y motosicletas, carreras y simuladores**
-:family: **El ultimo hijo**
+:computer: **Estudiante de Ing Software**  
+:pencil: **Estudiante-Senati**  
+:eyeglasses: **Geek empedernido**(¿Aún se usa geek?)  
+:encoming_automobile: **Fan de los autos y motosicletas, carreras y simuladores**  
+:family: **El ultimo hijo**  
 
 
 ### Vias de contacto
