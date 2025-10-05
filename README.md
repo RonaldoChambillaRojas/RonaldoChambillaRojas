@@ -1,62 +1,114 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212726330-8197793d-8380-4822-b2d9-1c97a875a6c0.png" alt="Banner de Código y Desarrollo" width="400"/>
-  <h1>¡Hola! Soy Ronaldo Chambilla Rojas 👋</h1>
-  <h3>Ingeniero de Software en formación con pasión por el Backend y la Nube.</h3>
-</div>
+<!-- 💫 GitHub Profile README -->
+
+<h1 align="center">👋 ¡Hola! Soy Ronaldo Rojas</h1>
+<h3 align="center">Estudiante de Ingeniería de Software con IA | Desarrollador Full Stack en formación</h3>
 
 ---
 
-## 🚀 Sobre Mí
+### 💻 Resumen de Habilidades Técnicas
 
-Soy **Ronaldo Chambilla Rojas**, un desarrollador de 19 años de Perú. Actualmente estoy cursando el **5to semestre** de la carrera de **Ingeniería de Software con Inteligencia Artificial** en **SENATI**.
+#### 🧠 Backend & Core
+- **Lenguajes:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>  
 
-Con poco más de tres años programando, me he enfocado en construir bases sólidas y mantenerme a la vanguardia. Mi compromiso con el aprendizaje continuo me ha llevado a invertir en plataformas como **Platzi**, **DevTalles** y **Udemy**.
+  Mi lenguaje principal es **TypeScript**, aunque también manejo **JavaScript**, **Python**, **Java** y **PHP**.
 
-Mi meta es fusionar la eficiencia del desarrollo **Backend** con la escalabilidad de la **Computación en la Nube**.
+- **Frameworks Backend:**  
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"/>  
+  Experiencia sólida desarrollando **APIs REST** y **servicios backend** con **NestJS** (mi framework principal).
 
----
+- **Bases de Datos:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>  
 
-## 🛠️ Stack y Tecnologías Favoritas
+  Trabajo principalmente con **MySQL** y **PostgreSQL**, y estoy explorando **MongoDB (NoSQL)** y **Redis** para caching.
 
-| Categoría | Tecnologías Clave | Explorando / Aprendiendo |
-| :--- | :--- | :--- |
-| **Backend & Core** | **TypeScript** $ \text{  } \text{ } \color{#3178C6}{\text{ \textsf{ \small TS}}} \text{ } \text{ } $ , **JavaScript** $ \text{  } \text{ } \color{#F7DF1E}{\text{ \textsf{ \small JS}}} \text{ } \text{ } $ | **GraphQL** $ \text{  } \text{ } \color{#E10098}{\text{ \textsf{ \small GQL}}} \text{ } \text{ } $ , **Microservicios** |
-| **Frameworks** | **NestJS** $ \text{  } \text{ } \color{#E0234E}{\text{ \textsf{ \small Nest}}} \text{ } \text{ } $ , **React** $ \text{  } \text{ } \color{#61DAFB}{\text{ \textsf{ \small React}}} \text{ } \text{ } $ , **Vite** $ \text{  } \text{ } \color{#646CFF}{\text{ \textsf{ \small Vite}}} \text{ } \text{ } $ | **Next.js** $ \text{  } \text{ } \color{#000000}{\text{ \textsf{ \small Next}}} \text{ } \text{ } $ , **n8n** |
-| **Bases de Datos** | **MySQL** $ \text{  } \text{ } \color{#4479A1}{\text{ \textsf{ \small SQL}}} \text{ } \text{ } $ , **PostgreSQL** $ \text{  } \text{ } \color{#4169E1}{\text{ \textsf{ \small SQL}}} \text{ } \text{ } $ | **MongoDB** $ \text{  } \text{ } \color{#47A248}{\text{ \textsf{ \small Mongo}}} \text{ } \text{ } $ , **Redis** $ \text{  } \text{ } \color{#DC382D}{\text{ \textsf{ \small Redis}}} \text{ } \text{ } $ |
-| **Testing & ORM** | **Jest** $ \text{  } \text{ } \color{#C21325}{\text{ \textsf{ \small Jest}}} \text{ } \text{ } $ , **TypeORM** | |
-| **Estilos (Frontend)** | **Tailwind CSS** $ \text{  } \text{ } \color{#06B6D4}{\text{ \textsf{ \small TWD}}} \text{ } \text{ } $ | |
-
----
-
-## ☁️ Infraestructura y DevOps
-
-Mi interés por la escalabilidad me ha llevado a profundizar en temas de infraestructura:
-
-| Herramienta | Icono | Descripción |
-| :--- | :---: | :--- |
-| **Docker** | $ \color{#2496ED}{\text{ \textsf{ \small Docker}}} \text{ } \text{ } $ | Sólida experiencia en la creación y gestión de contenedores. |
-| **AWS Cloud** | $ \color{#FF9900}{\text{ \textsf{ \small AWS}}} \text{ } \text{ } $ | Actualmente estudiando para la certificación **Cloud Practitioner**. |
-| **Linux (Ubuntu/Red Hat)** | $ \color{#FF9900}{\text{ \textsf{ \small Linux}}} \text{ } \text{ } $ | Aprendiendo sobre distribuciones y administración de sistemas. |
-| **Kubernetes** | $ \color{#326CE5}{\text{ \textsf{ \small K8s}}} \text{ } \text{ } $ | Explorando para la orquestación y despliegue de microservicios. |
+- **Herramientas Backend:**  
+  <img src="https://cdn.simpleicons.org/typeorm/262627" width="40"/> 
+  <img src="https://cdn.simpleicons.org/jest/C21325" width="40"/>  
+  Uso **TypeORM** para la gestión de datos y **Jest** para testing.
 
 ---
 
-## 🧰 Herramientas Esenciales
+### 🌐 Frontend & UI/UX
 
-* **Git & GitHub** $ \color{#181717}{\text{ \textsf{ \small GitHub}}} \text{ } \text{ } $ : Versionamiento y colaboración.
-* **Postman** $ \color{#FF6C37}{\text{ \textsf{ \small Postman}}} \text{ } \text{ } $ : Testing y consumo de APIs.
-* **Apollo** $ \color{#311C87}{\text{ \textsf{ \small Apollo}}} \text{ } \text{ } $ : Cliente para GraphQL.
+- **Frameworks/Librerías:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>  
+
+  Experiencia en interfaces con **React** + **Vite**. Actualmente aprendiendo **Next.js** para proyectos con SSR.
+
+- **Estilizado:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>  
+  Uso **TailwindCSS** para crear componentes modulares, rápidos y responsivos.
 
 ---
 
-## 🎲 Pasatiempos e Intereses
+### ☁️ Infraestructura & DevOps
 
-Cuando no estoy codificando, me dedico a ejercitar la mente:
-* Me apasionan los juegos de estrategia como el **Ajedrez** y el **Cubo de Rubik**.
-* Disfruto de ver deportes como la **UFC** y el **Fútbol**.
+- **Contenedores:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>  
+  Experiencia práctica creando entornos reproducibles con **Docker**.
+
+- **Cloud & DevOps:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>  
+  Estudiando para la certificación **AWS Cloud Practitioner** y explorando **Kubernetes** para orquestación.
+
+- **Sistemas Operativos:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40"/>  
+  Aprendiendo sobre administración en **Ubuntu** y **Red Hat Enterprise Linux**.
 
 ---
-<div align="center">
-  <p>¡Conéctate conmigo! Estoy siempre abierto a aprender, colaborar y debatir sobre código.</p>
-  
-  </div>
+
+### 🛠️ Herramientas de Desarrollo y Flujo de Trabajo
+
+- **Versionamiento y Colaboración:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
+  Fluidez con **Git** y **GitHub** para control de versiones.
+
+- **APIs y Testing:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> 
+  <img src="https://cdn.simpleicons.org/apollographql/311C87" width="40"/>  
+  Uso **Postman** para pruebas REST y **Apollo** para integraciones **GraphQL**.
+
+---
+
+### 📈 Aprendizaje Actual
+- Implementación de **Microservicios** con **NestJS**  
+- Integración avanzada de **GraphQL**  
+- Automatización de flujos de trabajo con **n8n**
+
+---
+
+### 📚 Educación y Formación
+🎓 Estudiante de **Ingeniería de Software con Inteligencia Artificial** en **SENATI (Perú)**  
+📆 Actualmente cursando el **5° de 6 semestres**
+
+📖 Plataformas de aprendizaje continuo:
+- [Platzi](https://platzi.com)
+- [DevTalles](https://devtalles.com)
+- [Udemy](https://www.udemy.com)
+
+---
+
+### ♟️ Intereses Personales
+Me apasionan los **juegos de estrategia**, especialmente el **Ajedrez** y el **Cubo de Rubik**.  
+También disfruto seguir eventos deportivos como la **UFC** 🥊 y el **Fútbol** ⚽.
+
+---
+
+<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronaldorojas&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
+</p>
