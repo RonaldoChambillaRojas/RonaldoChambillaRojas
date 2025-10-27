@@ -1,114 +1,92 @@
-<!-- 💫 GitHub Profile README -->
+<!-- 🌟 GitHub Profile README -->
 
-<h1 align="center">👋 ¡Hola! Soy Ronaldo Rojas</h1>
-<h3 align="center">Estudiante de Ingeniería de Software con IA | Desarrollador Full Stack en formación</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/2bit-happy.gif" width="60"/>
+  Hi, I'm <span style="color:#2b7489;">Ronaldo Rojas</span> 👋
+</h1>
 
----
+<h3 align="center">Backend & DevOps Enthusiast | Software Engineering Student</h3>
 
-### 💻 Resumen de Habilidades Técnicas
-
-#### 🧠 Backend & Core
-- **Lenguajes:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>  
-
-  Mi lenguaje principal es **TypeScript**, aunque también manejo **JavaScript**, **Python**, **Java** y **PHP**.
-
-- **Frameworks Backend:**  
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"/>  
-  Experiencia sólida desarrollando **APIs REST** y **servicios backend** con **NestJS** (mi framework principal).
-
-- **Bases de Datos:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>  
-
-  Trabajo principalmente con **MySQL** y **PostgreSQL**, y estoy explorando **MongoDB (NoSQL)** y **Redis** para caching.
-
-- **Herramientas Backend:**  
-  <img src="https://cdn.simpleicons.org/typeorm/262627" width="40"/> 
-  <img src="https://cdn.simpleicons.org/jest/C21325" width="40"/>  
-  Uso **TypeORM** para la gestión de datos y **Jest** para testing.
-
----
-
-### 🌐 Frontend & UI/UX
-
-- **Frameworks/Librerías:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>  
-
-  Experiencia en interfaces con **React** + **Vite**. Actualmente aprendiendo **Next.js** para proyectos con SSR.
-
-- **Estilizado:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>  
-  Uso **TailwindCSS** para crear componentes modulares, rápidos y responsivos.
-
----
-
-### ☁️ Infraestructura & DevOps
-
-- **Contenedores:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>  
-  Experiencia práctica creando entornos reproducibles con **Docker**.
-
-- **Cloud & DevOps:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>  
-  Estudiando para la certificación **AWS Cloud Practitioner** y explorando **Kubernetes** para orquestación.
-
-- **Sistemas Operativos:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40"/>  
-  Aprendiendo sobre administración en **Ubuntu** y **Red Hat Enterprise Linux**.
-
----
-
-### 🛠️ Herramientas de Desarrollo y Flujo de Trabajo
-
-- **Versionamiento y Colaboración:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
-  Fluidez con **Git** y **GitHub** para control de versiones.
-
-- **APIs y Testing:**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/> 
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" width="40"/>  
-  Uso **Postman** para pruebas REST y **Apollo** para integraciones **GraphQL**.
-
----
-
-### 📈 Aprendizaje Actual
-- Implementación de **Microservicios** con **NestJS**  
-- Integración avanzada de **GraphQL**  
-- Automatización de flujos de trabajo con **n8n**
-
----
-
-### 📚 Educación y Formación
-🎓 Estudiante de **Ingeniería de Software con Inteligencia Artificial** en **SENATI (Perú)**  
-📆 Actualmente cursando el **5° de 6 semestres**
-
-📖 Plataformas de aprendizaje continuo:
-- [Platzi](https://platzi.com)
-- [DevTalles](https://devtalles.com)
-- [Udemy](https://www.udemy.com)
-
----
-
-### ♟️ Intereses Personales
-Me apasionan los **juegos de estrategia**, especialmente el **Ajedrez** y el **Cubo de Rubik**.  
-También disfruto seguir eventos deportivos como la **UFC** 🥊 y el **Fútbol** ⚽.
-
----
-
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronaldorojas&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Backend+Developer;DevOps+Learner;Golang+Explorer;Building+with+NestJS+%26+TypeScript"/>
+</p>
+
+---
+
+### 🧠 About Me
+🚀 Passionate about **Backend Development** and **DevOps**.  
+I enjoy designing **microservices**, working with **NestJS**, **Go**, and **Docker**, and exploring topics like **GraphQL**, **WebSockets**, and **Cloud Infrastructure**.  
+Currently improving my skills in **Express**, **Go**, and **Next.js** to build scalable full-stack applications.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🔹 Backend & Core
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+#### 🐳 DevOps & Infrastructure
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaldochambillarojas&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronaldochambillarojas&theme=tokyonight&hide_border=false" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldochambillarojas&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🚀 Currently Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ronaldo-rojas" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="mailto:ronaldo.rojas.dev@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronaldorojas&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
