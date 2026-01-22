@@ -11,7 +11,7 @@
         <img src="./assets/carbon.png" alt="Code Philosophy" width="100%" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);"/>
       </td>
       <td valign="bottom" width="40%">
-        <img src="https://media.tenor.com/YSThO1B93VMAAAAi/gopher.gif" alt="Party Gopher" width="300" height="450"/>
+        <img src="https://media.tenor.com/YSThO1B93VMAAAAi/gopher.gif" alt="Party Gopher" width="400" height="450"/>
       </td>
     </tr>
   </table>
